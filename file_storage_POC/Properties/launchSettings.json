@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "file_storage_POC": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7000",
+      "launchBrowser": false
+    }
+  }
+}
